@@ -1,2 +1,2 @@
-# country-flag-CSS
+# CSS-flag-project
 Flag of Laos made using CSS :)
